@@ -1,0 +1,12 @@
+[
+  { "icon": "🖥️", "name": "パソコンでやる奴", "url": "https://discord.com/api/webhooks/ここにWebhookのURL" },
+  { "icon": "💯🤭", "name": "日常ライフハック・面白かった話題", "url": "https://discord.com/api/webhooks/ここにWebhookのURL" },
+  { "icon": "🤖", "name": "生成AI・ギーク系話題", "url": "https://discord.com/api/webhooks/ここにWebhookのURL" },
+  { "icon": "🎨🧵", "name": "イラスト＆手芸ライフハック", "url": "https://discord.com/api/webhooks/ここにWebhookのURL" },
+  { "icon": "💖", "name": "好きな絵・写真", "url": "https://discord.com/api/webhooks/ここにWebhookのURL" },
+  { "icon": "🖼️", "name": "イラストテンプレ", "url": "https://discord.com/api/webhooks/ここにWebhookのURL" },
+  { "icon": "👗", "name": "着せたい服", "url": "https://discord.com/api/webhooks/ここにWebhookのURL" },
+  { "icon": "📺💪", "name": "筋トレ中に見たい動画", "url": "https://discord.com/api/webhooks/ここにWebhookのURL" },
+  { "icon": "🍽️", "name": "気になるお店", "url": "https://discord.com/api/webhooks/ここにWebhookのURL" },
+  { "icon": "🍳🔪", "name": "ごはんライフハック", "url": "https://discord.com/api/webhooks/ここにWebhookのURL" }
+]
